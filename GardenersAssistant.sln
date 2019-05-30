@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{9938BC08-3550-4F01-A37B-A1E58C332860}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServer", "IdentityServer\IdentityServer.csproj", "{5D63366B-FECD-49B9-8FB8-2185AAED98A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Garden.API", "Garden.API\Garden.API.csproj", "{67EDC5A3-BD8D-46F1-B7E8-1F0EFCBC8270}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9938BC08-3550-4F01-A37B-A1E58C332860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9938BC08-3550-4F01-A37B-A1E58C332860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9938BC08-3550-4F01-A37B-A1E58C332860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9938BC08-3550-4F01-A37B-A1E58C332860}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D63366B-FECD-49B9-8FB8-2185AAED98A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D63366B-FECD-49B9-8FB8-2185AAED98A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D63366B-FECD-49B9-8FB8-2185AAED98A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D63366B-FECD-49B9-8FB8-2185AAED98A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67EDC5A3-BD8D-46F1-B7E8-1F0EFCBC8270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67EDC5A3-BD8D-46F1-B7E8-1F0EFCBC8270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67EDC5A3-BD8D-46F1-B7E8-1F0EFCBC8270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67EDC5A3-BD8D-46F1-B7E8-1F0EFCBC8270}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC3354AF-35FF-4E42-9BDC-8750EC878835}
+	EndGlobalSection
+EndGlobal
